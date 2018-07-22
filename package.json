@@ -1,0 +1,20 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "patpatchari's homepage",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patpatchari/homepage.git"
+  },
+  "keywords": [],
+  "author": "patpatchari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patpatchari/homepage/issues"
+  },
+  "homepage": "https://github.com/patpatchari/homepage#readme"
+}
